@@ -33,7 +33,17 @@ export const SlideContainer=styled.div<IPropMove>`
 
 
     background-color: white;
+`
 
-
-
+export const FormPannelContainer=styled.div`
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+`
+export const FooterPannelContainer=styled.div`
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem;
 `
