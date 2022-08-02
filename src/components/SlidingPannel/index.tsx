@@ -6,7 +6,7 @@ import { Input } from "../Input"
 // import { ButtonLogin } from "../ButtonLogin"
 
 interface ISlideProps {
-  position: string
+  //  position: string
 }
 
 export const SlidingPannel = ({ position }: ISlideProps) => {
